@@ -1,0 +1,2 @@
+# YanguEvent
+Event planning application.
